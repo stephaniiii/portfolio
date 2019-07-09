@@ -1,0 +1,109 @@
+*{
+    margin :0;
+    padding:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-bar{
+    display: flex;
+    background-color: black;
+    margin-top: 10px;
+    height: 700px;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), 
+    url(/assets/art-artistic-background-1328891.jpg);
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+h3{
+    color: white;
+    margin-left: 10px;
+}
+
+#header{
+    
+}
+
+div>a{
+   margin-left: 40px;
+}
+
+
+.link{
+    margin-left: 650px;
+}
+
+.body{
+    margin: 50px 0px;
+    padding: 50px 0px;
+    background-color: rgba(177,166,166,0.438);
+    margin-top:40px;    
+}
+
+h1, p{
+    width: 100%;
+    text-align: center;
+    color: black;
+    margin-bottom: 30px;
+
+}
+
+h1{
+    margin-top: 60px;
+}
+
+p{
+    color: gray;
+    font-size: 12px;
+}
+
+img{
+    width: 200px;
+    height: 100%;
+    background-size: cover;
+}
+
+.pics{
+    display: flex;
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section{
+    background-color: gray;
+    height: 500px;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+
+.footer{
+    margin-top: 200px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+.upper{
+    display: flex;
+}
+
+.lower{
+    display: flex;
+}
+
+
+
+
+
