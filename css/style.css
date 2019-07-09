@@ -11,7 +11,7 @@
     height: 700px;
     width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), 
-    url(/assets/art-artistic-background-1328891.jpg);
+    url("../assets/art-artistic-background-1328891.jpg");
     background-size: cover;
 }
 
